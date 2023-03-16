@@ -5,7 +5,7 @@ The app uses HackerNews Rest API powered by Algolia to populate a ListView. When
 
 
 
-<p float="left">
+<p float="center">
   <img width="258" alt="Screenshot 2023-03-16 at 12 41 41 PM" src="https://user-images.githubusercontent.com/33110652/225735429-29f1c062-e2cd-4ea7-8b4e-dbf4a0df3b74.png">
 
 <img width="258" alt="Screenshot 2023-03-16 at 12 42 05 PM" src="https://user-images.githubusercontent.com/33110652/225735453-0e06116c-8ed7-492b-bc42-659e05d37fa0.png">
